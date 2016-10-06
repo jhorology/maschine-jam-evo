@@ -10,6 +10,6 @@ Ableton Live MIDI remote script for adding improvements to Maschine Jam.
   - [ ] colorlize group track clip
   - [ ] breathing playing clip
 
-- [ ] Web broser OSD
+- [ ] Web browser OSD
 
 - [ ] NKS integration
