@@ -3,7 +3,7 @@ Ableton Live MIDI remote script for adding improvements to Maschine Jam.
 
 - [ ] <code>[SHIFT]+[PAD MODE]</code> Ableton Push style pad mode. 
   - [x] Push style note matrix
-  - [x] Push compatible + addtional scales
+  - [x] Push compatible + additional scales
   - [ ] indicate note_on
 
 - [ ] session mode
